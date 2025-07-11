@@ -1,5 +1,8 @@
 # Fichiers binaires et dossiers de build
 bin/
+**/bin/
+obj/
+**/obj/
 obj/
 
 # Fichiers générés par Visual Studio

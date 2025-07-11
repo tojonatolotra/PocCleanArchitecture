@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U317M3G9U+xNocbR/fXYsKw0Nyy9Kj84t2gQNaYLcE58Ac0p/NMJ6zf6CQ/pBLennufrdqgQBbdlsWuTQJUPIQ==",
+  "dgSpecHash": "eIIM3v/H/wQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ranai\\source\\repos\\MyApp\\MyApp\\MyApp.Application\\MyApp.Application.csproj",
+  "projectFilePath": "/workspaces/PocCleanArchitecture/MyApp.Application/MyApp.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

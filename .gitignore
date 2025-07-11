@@ -1,0 +1,53 @@
+# Fichiers binaires et dossiers de build
+bin/
+**/bin/
+obj/
+**/obj/
+obj/
+bin/*
+obj/*
+**/bin/*
+**/obj/*
+
+# Fichiers générés par Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Fichiers de logs
+*.log
+
+# Fichiers de configuration locaux
+appsettings.Development.json
+appsettings.Local.json
+
+# Fichiers de test et résultats
+TestResults/
+*.coverage
+*.coveragexml
+
+# Paquets NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Dossiers de publication
+publish/
+out/
+
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# Fichiers secrets
+secrets.json
+
+# Fichiers de cache
+*.dbmdl
+
+# Fichiers de l’IDE JetBrains Rider
+.idea/
+*.sln.iml
